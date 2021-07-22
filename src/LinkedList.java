@@ -1,5 +1,5 @@
 
-public class LinkedList {
+public class LinkedList  {
 	Node head;
 
 	public void add(Object data){
